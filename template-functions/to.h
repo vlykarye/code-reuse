@@ -5,8 +5,6 @@
 
 // for anything stringstream can handle
 
-
-
 template<typename TO, typename FROM>
 TO to(FROM const & a)
 {
